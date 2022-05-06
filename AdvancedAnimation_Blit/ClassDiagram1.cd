@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdvancedAnimation_Blit.App" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAEAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdvancedAnimation_Blit.EventBlob" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBAQAAACAAAgAAAAAAAgAAAAAABAAIAAgAAAAAA=</HashCode>
+      <FileName>EventBlob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdvancedAnimation_Blit.Fps" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAACABBBAAAAAECAAAAAAAAAAEAAAAAEAA=</HashCode>
+      <FileName>FPS.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdvancedAnimation_Blit.FpsEx" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAEAAAAAAAA=</HashCode>
+      <FileName>FpsEx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdvancedAnimation_Blit.Helper" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIBAAAAAAAAAEAAAAAAgAAAAAAAIAAAQAAFAA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdvancedAnimation_Blit.MainPage" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdvancedAnimation_Blit.Plotter" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAQAAADAgAAABABQAABAABiAAAAIAAHAQBIAAAAAA=</HashCode>
+      <FileName>Plotter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdvancedAnimation_Blit.RoundedSquare" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAIAAAAAAAAAAABAACAEAAEIABA=</HashCode>
+      <FileName>RoundedSquare.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdvancedAnimation_Blit.Showcase" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAgAEACBAAGAAABAAIAIAADCEYACAAAECEACA=</HashCode>
+      <FileName>Showcase.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdvancedAnimation_Blit.Showcase1" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAIAAAAAAAAAAAAMAABAQAAAAAAA=</HashCode>
+      <FileName>Showcase1.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdvancedAnimation_Blit.Util" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AdvancedAnimation_Blit.Views" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAABAAAAAAgAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Views.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
